@@ -1,0 +1,4 @@
+Create a class
+create 3 empty variable strings
+function parses user commands
+add these parsed words to each variable in order
